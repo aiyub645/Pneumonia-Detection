@@ -12,7 +12,7 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 
 I've developed a Convolutional Neural Network to classify the X-Ray images into Normal and Pneumonial.
 Our model was around 92.47% accurate with the test images.
-More accuracy may have been acheived but due to lmited resources the model was trained only for 30 epochs
+More accuracy may have been acheived but due to lmited resources the model was trained only for 20 epochs
 Deep Learning will bring a great revolution in the field of healthcare in the coming years.
 
 ## My kaggle notebook link: https://kaggle.com/mdaiyub/pneumonia-detection
